@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/issues</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/pulls</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/actions</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/projects?query=is%3Aopen</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/security</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/releases</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/labels</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/compare</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/labels?sort=name-asc</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/labels?sort=name-desc</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/labels?sort=count-desc</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/labels?sort=count-asc</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/labels/bug</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/labels/documentation</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/labels/duplicate</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/labels/enhancement</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/labels/good%20first%20issue</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/labels/help%20wanted</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/labels/invalid</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/labels/question</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/labels/wontfix</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?state=open</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?state=closed</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Zy2-Support/WWW.Zy2-support.com/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-02-21T12:27:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
