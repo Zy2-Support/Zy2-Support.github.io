@@ -53,7 +53,7 @@ With our Financial Security service, you can rest assured that your financial as
 
 
 
-https://github.com/Zy2-Support/Zy2-Support.github.io/issues/1#issue-2179432092
+
 
 
 instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728](https://github.com/Zy2-Support/Zy2-Support.github.io/assets/159892438/a940cc31-f6b6-40de-b77e-066ee5fd1b61)
