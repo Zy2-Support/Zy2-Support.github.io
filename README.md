@@ -1,9 +1,4 @@
-#![lock-network-technology-concept](https://github.com/Zy2-Support/Zy2-Support.github.io/assets/159892438/94d01447-ef5b-45ac-aa53-9a4635773cf4)
-![what-is-cyber-security](https://github.com/Zy2-Support/Zy2-Support.github.io/assets/159892438/4815c896-7490-4e1f-910c-932ad61e1db5)
-![untitled-design-39-1024x640](https://github.com/Zy2-Support/Zy2-Support.github.io/assets/159892438/1cfa8dce-ac69-4c0c-bc0b-7a9693c8028b)
-![supply-chain-attac-550x400px](https://github.com/Zy2-Support/Zy2-Support.github.io/assets/159892438/ba591d2d-d741-425c-a24b-9380ce021773)
-![03-10_Cybersecurity_Article](https://github.com/Zy2-Support/Zy2-Support.github.io/assets/159892438/a00904aa-a456-4e18-81e8-10ab86483537)
-![internet-network-security-concept-young-600nw-1931787956](https://github.com/Zy2-Support/Zy2-Support.github.io/assets/159892438/17e90240-cf3a-4918-bd78-92e002f65837)
+
  WWW.Zy2-support.com
 
 If you have fallen victim to a scam, Zy2 – Support can help you recover your lost funds. Our Fund Recovery service is designed to help clients who have lost money due to fraudulent activities.
