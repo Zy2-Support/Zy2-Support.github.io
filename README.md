@@ -26,11 +26,11 @@ At Zy2__Support, our mission is to empower individuals and businesses to take co
 
 - Our team of seasoned professionals possesses the knowledge, skills, and experience to handle even the most intricate funds recovery cases, providing you with a comprehensive and strategic approach to achieving successful outcomes.
 
--     Transparency:
+       Transparency:
 
  We believe in fostering open, honest communication with our clients, ensuring that you are kept informed and empowered throughout the recovery process. Trust and integrity are at the core of our interactions with you.
 
--     Results-Oriented:
+    Results-Oriented:
 
   We are driven by a relentless commitment to delivering results that exceed your expectations. Your financial security is our top priority, and we will go above and beyond to secure the recovery of your lost funds.
 Join us on the path to restoring your financial security and renewing your confidence in the pursuit of justice. Let Zy2__Support be your guiding light in the journey towards recovering what is rightfully yours.
@@ -41,10 +41,11 @@ Contact us today to begin your funds recovery journey with confidence and resolv
 
 
       Additional features and services
+-  Expert scam detection
 
--Expert scam detection
--Financial assets protection
--cutting edge technology 
+-   Financial assets protection
+
+-    cutting edge technology 
     
     Expert scam detection: 
 At Zy2__Support, we understand the importance of safeguarding your financial assets from fraudulent activities. Our Scam Identification service provides you with the necessary tools and resources to identify and prevent scams before they cause any damage.Our team of experts uses cutting-edge technology and advanced techniques to monitor and detect potential scams. We analyze suspicious emails, websites, and phone calls to identify any fraudulent activity. We also provide you with the necessary education and training to help you recognize and avoid scams.With our Scam Identification service, you can rest assured that your financial assets are safe and secure. Contact us today to learn more about how we can help protect you from scams. 
