@@ -81,7 +81,7 @@ Our team of experts uses cutting-edge technology and advanced techniques to moni
 
 
 
-<link rel="https://www.instagram.com/zy2___support?igsh=MWlkdHh2NXJiMTFoNA==" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+
 
 
  
@@ -122,14 +122,7 @@ If you have fallen victim to a scam, Zy2 – Support can help you recover your l
 
 
 
-<link rel="https://www.instagram.com/zy2___support?igsh=MWlkdHh2NXJiMTFoNA==" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="fa-square-instagram"></i> " />
 
-
-
-
-
-https://www.instagram.com/https//![6929237_instagram_icon](https://github.com/Zy2-Support/Zy2-Support.github.io/assets/159892438/08ff218e-e4c8-4492-a42b-3953ab682578)
-www.instagram.com/zy2___support?igsh=MWlkdHh2NXJiMTFoNA==
 
 
 
