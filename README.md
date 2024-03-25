@@ -128,8 +128,8 @@ If you have fallen victim to a scam, Zy2 – Support can help you recover your l
 
 
 
+https://www.instagram.com/https//![6929237_instagram_icon](https://github.com/Zy2-Support/Zy2-Support.github.io/assets/159892438/08ff218e-e4c8-4492-a42b-3953ab682578)
+www.instagram.com/zy2___support?igsh=MWlkdHh2NXJiMTFoNA==
 
-
-![6929237_instagram_icon]link=[(](https://www.instagram.com/zy2___support?igsh=MWlkdHh2NXJiMTFoNA==)(https://github.com/Zy2-Support/Zy2-Support.github.io/assets/159892438/e19ed7c9-673e-4099-ab54-630a29887f0a)
 
 
