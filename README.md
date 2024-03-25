@@ -124,3 +124,12 @@ If you have fallen victim to a scam, Zy2 – Support can help you recover your l
 
 <link rel="https://www.instagram.com/zy2___support?igsh=MWlkdHh2NXJiMTFoNA==" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="fa-square-instagram"></i> " />
 
+
+
+
+
+
+
+![6929237_instagram_icon]link=[(](https://www.instagram.com/zy2___support?igsh=MWlkdHh2NXJiMTFoNA==)(https://github.com/Zy2-Support/Zy2-Support.github.io/assets/159892438/e19ed7c9-673e-4099-ab54-630a29887f0a)
+
+
