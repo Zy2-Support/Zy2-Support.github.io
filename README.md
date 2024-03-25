@@ -61,7 +61,10 @@ Contact us today to begin your funds recovery journey with confidence and resolv
 
 
 
-At Zy2__Support, we understand the importance of safeguarding your financial assets from fraudulent activities.our Scam Identification service provides you with the necessary tools and resources to identify and prevent scams before they cause any damage.With our Scam Identification service, you can rest assured that your financial assets are safe and secure. Contact us today to learn more about how we can help protect you from scams. 
+At Zy2__Support, we understand the importance of safeguarding your financial assets from fraudulent activities. 
+![internet-network-security-concept-young-600nw-1931787956](https://github.com/Zy2-Support/Zy2-Support.github.io/assets/159892438/eff1e7cf-4fa0-44cf-92a9-d2c487351ea3)
+
+our Scam Identification service provides you with the necessary tools and resources to identify and prevent scams before they cause any damage.With our Scam Identification service, you can rest assured that your financial assets are safe and secure. Contact us today to learn more about how we can help protect you from scams. 
 
     Financial assets protection:
     
@@ -78,7 +81,7 @@ Our team of experts uses cutting-edge technology and advanced techniques to moni
 
 
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+<link rel="https://www.instagram.com/zy2___support?igsh=MWlkdHh2NXJiMTFoNA==" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
 
 
  
