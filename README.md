@@ -47,11 +47,8 @@ Contact us today to begin your funds recovery journey with confidence and resolv
 
 -    cutting edge technology 
     
-    Expert scam detection: 
-At Zy2__Support, we understand the importance of safeguarding your financial assets from fraudulent activities. 
-![internet-network-security-concept-young-600nw-1931787956](https://github.com/Zy2-Support/Zy2-Support.github.io/assets/159892438/d33fafcd-725b-484c-8608-f820728a2c8c)
-
-Our Scam Identification service provides you with the necessary tools and resources to identify and prevent scams before they cause any damage.Our team of experts uses cutting-edge technology and advanced techniques to monitor and detect potential scams. We analyze suspicious emails, websites, and phone calls to identify any fraudulent activity. We also provide you with the necessary education and training to help you recognize and avoid scams.With our Scam Identification service, you can rest assured that your financial assets are safe and secure. Contact us today to learn more about how we can help protect you from scams. 
+-    Expert scam detection: 
+At Zy2__Support, we understand the importance of safeguarding your financial assets from fraudulent activities.our Scam Identification service provides you with the necessary tools and resources to identify and prevent scams before they cause any damage.Our team of experts uses cutting-edge technology and advanced techniques to monitor and detect potential scams. We analyze suspicious emails, websites, and phone calls to identify any fraudulent activity. We also provide you with the necessary education and training to help you recognize and avoid scams.With our Scam Identification service, you can rest assured that your financial assets are safe and secure. Contact us today to learn more about how we can help protect you from scams. 
 
     Financial assets protection:
     
